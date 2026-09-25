@@ -1,0 +1,13 @@
+Layer,Metric,First_observed_nonvacuous_N,Bound_at_crossing,R_unif,Interpretation
+0,U_SAE,10000,7.966880719838459,15.617036934287741,descriptive over predetermined nested prefixes
+2,U_SAE,10000,8.09128211713543,15.617036934287741,descriptive over predetermined nested prefixes
+4,U_SAE,10000,8.208775027974673,15.617036934287741,descriptive over predetermined nested prefixes
+6,U_SAE,10000,8.283490277556497,15.617036934287741,descriptive over predetermined nested prefixes
+8,U_SAE,10000,8.310003954686815,15.617036934287741,descriptive over predetermined nested prefixes
+10,U_SAE,10000,8.449049739297829,15.617036934287741,descriptive over predetermined nested prefixes
+0,U_SAE_Occam,30000,14.649790098315592,15.617036934287741,descriptive over predetermined nested prefixes
+2,U_SAE_Occam,30000,14.801192194013645,15.617036934287741,descriptive over predetermined nested prefixes
+4,U_SAE_Occam,10000,14.154123465612116,15.617036934287741,descriptive over predetermined nested prefixes
+6,U_SAE_Occam,10000,10.422567803780776,15.617036934287741,descriptive over predetermined nested prefixes
+8,U_SAE_Occam,10000,9.46947541898772,15.617036934287741,descriptive over predetermined nested prefixes
+10,U_SAE_Occam,10000,9.273711305515898,15.617036934287741,descriptive over predetermined nested prefixes
